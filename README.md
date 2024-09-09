@@ -1,1 +1,1 @@
-No more distractions from recommended content.
+## No more distractions from recommended content.
