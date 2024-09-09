@@ -11,7 +11,7 @@
 ### Dark Mode
 ![Screenshot from 2024-09-09 19-16-32](https://github.com/user-attachments/assets/87d3856c-c9c8-40d8-8657-a055133d05bf)
 
+---
 
-
-the version 1.0 is the basic function.
-the version 1.1 is the dark mode.
+The version 1.0 is the basic function.
+The version 1.1 is the dark mode.
