@@ -9,7 +9,8 @@
 ![Screenshot from 2024-09-09 18-46-47](https://github.com/user-attachments/assets/7fdc980c-765e-4ecf-b91d-2981ac08911b)
 
 ### Dark Mode
-![Screenshot from 2024-09-09 19-14-16](https://github.com/user-attachments/assets/35375377-1d80-4e9a-acea-0229a52c1a66)
+![Screenshot from 2024-09-09 19-16-32](https://github.com/user-attachments/assets/87d3856c-c9c8-40d8-8657-a055133d05bf)
+
 
 
 the version 1.0 is the basic function.
